@@ -5,4 +5,4 @@ Recipe Converter
 #I am very new to writing code, I just started two weeks ago. 
 /
 /
-#check out what i have so far, please feel free to leaev comments and edit what you will. Thank you!
+#check out what i have so far, please feel free to leave comments and edit what you will. Thank you!
